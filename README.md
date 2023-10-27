@@ -6,14 +6,14 @@
      </head>
      <body>
           <header>
-               Nagłówek
+               <h1>Nagłówek<h1>
           </header>
           <nav>
-               Menu główne
+               <h2>Menu główne<h2>
           </nav>
           <section>
                <article>
-                    Zawartość artykułu
+                    <h3>Zawartość                               artykułu<h3>
                </article>
           </section>
           <aside>
